@@ -1,7 +1,7 @@
 body{
     background-color: #1D5C63;
     text-align: center;
-    background-image: url("images/band.jpg");
+    background-image: url("band.jpg");
     
 }
 .para{
@@ -28,46 +28,46 @@ button{
     417D7A */
 }
 .w{
-    background-image: url("images/crash.png");
+    background-image: url("crash.png");
     position: relative;
     right: 50px;
     font-size: 40px;
     /* color: */
 }
 .a{
-    background-image: url("images/kick.png");
+    background-image: url("kick.png");
     position: relative;
     right: 35px;
     font-size: 40px;
 
 }
 .s{
-    background-image: url("images/snare.png");
+    background-image: url("snare.png");
     position: relative;
     right: 20px;
     font-size: 40px;
 
 }
 .d{
-    background-image: url("images/tom1.png");
+    background-image: url("tom1.png");
     font-size: 40px;
 
 }
 .j{
-    background-image: url("images/tom2.png");
+    background-image: url("tom2.png");
     position: relative;
     left: 18px;
     font-size: 40px;
 
 }
 .k{
-    background-image: url("images/tom3.png");
+    background-image: url("tom3.png");
     position: relative;
     left: 35px;
     font-size: 40px;
 }
 .h{
-    background-image: url("images/tom4.png");
+    background-image: url("tom4.png");
     position: relative;
     left: 50px;
     font-size: 40px;
